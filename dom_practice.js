@@ -4,3 +4,6 @@ console.log(myFoot)
 const myHeader = document.querySelector("h2")
 console.log(myHeader)
 myHeader.innerText = "Welcome to Brooklyn!!!"
+const myBody = document.getElementsByClassName("container")
+console.log(myBody)
+
