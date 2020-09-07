@@ -8,3 +8,4 @@ const myBody = document.getElementsByClassName("container")
 console.log(myBody)
 const list = document.querySelectorAll("li")
 list[2].style.color = "purple"
+list[4].innerText = "Jamboree sandwich at the Jambo-ree"
