@@ -11,4 +11,5 @@ list[2].style.color = "purple"
 list[4].innerText = "Jamboree sandwich at the Jambo-ree"
 
 const garden = document.createElement("img")
-garden.setAttribute("src", "https://res.cloudinary.com/simpleview/image/upload/crm/newyorkstate/brooklynbotanicgarden_taggeryanceyiv_9877_0e54d36f-f030-c3e1-4b0f882ab20cdf99.jpg")
+garden.setAttribute("src", "https://www.fodors.com/assets/destinations/712993/cherry-blossom-trees-brooklyn-botanical-garden-brooklyn-new-york-city-new-york_main.jpg")
+myBody[1].appendChild(garden)
