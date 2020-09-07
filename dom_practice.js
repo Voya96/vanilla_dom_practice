@@ -13,3 +13,4 @@ list[4].innerText = "Jamboree sandwich at the Jambo-ree"
 const garden = document.createElement("img")
 garden.setAttribute("src", "https://www.fodors.com/assets/destinations/712993/cherry-blossom-trees-brooklyn-botanical-garden-brooklyn-new-york-city-new-york_main.jpg")
 myBody[1].appendChild(garden)
+const feature = document.querySelector("h4")
