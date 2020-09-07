@@ -6,4 +6,5 @@ console.log(myHeader)
 myHeader.innerText = "Welcome to Brooklyn!!!"
 const myBody = document.getElementsByClassName("container")
 console.log(myBody)
-
+const list = document.querySelectorAll("li")
+list[2].style.color = "purple"
