@@ -9,3 +9,5 @@ console.log(myBody)
 const list = document.querySelectorAll("li")
 list[2].style.color = "purple"
 list[4].innerText = "Jamboree sandwich at the Jambo-ree"
+
+const garden = document.createElement("img")
